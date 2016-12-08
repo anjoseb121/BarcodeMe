@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BarcodeMe</string>
+    <string name="not_detector">Could not set up the detector!</string>
+    <string name="btn_process">Process</string>
+    <string name="img_description">Barcode or QR</string>
+</resources>
